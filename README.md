@@ -1,2 +1,87 @@
-# DCF-Spring-2017
-A repository for student work for COMP 110 at Macalester College
+Storage for the assignments done in COMP 110
+
+Each student will have their own course repository. Those repositories
+will be "forked" from this one. That means your repository will start
+out identical to this one. It will change over the semester as you carry
+out your work.
+
+There are two tasks you need to perform:
+
+1.  Fork the COMP 110 assignments repository and add `dtkaplan` as
+    a collaborator.
+2.  Set up RStudio so that it knows about your repository.
+
+Forking the repository
+----------------------
+
+These steps describe how to create your own copy of the COMP 110
+assignments repository and share it with the instructor.
+
+1.  If you have not already done so, go to <http://github.com> and set
+    up an account for yourself. You will be asked to create a user ID
+    and to give an email address. Make sure the email address is one you
+    regularly use. 2. In another tab of your browser, log in to your
+    Github account. Then return to this tab.
+2.  Check whether the site you are reading this document is
+    <https://github.com/dtkaplan/Comp-110-Assignments-Spring-2017>. If
+    not direct your browser there.
+3.  In the upper right corner of the page, there is a button labeled
+    "Fork." Press it. You may have to login In response, you will see a
+    message telling you a fork is in progress. After a minute, the page
+    display will change and you will be looking at your own copy of the
+    COMP 110 assignments repository.
+4.  There is a row of tabs near the top of the window: Code, Pull
+    requestions, Projects, .... Click on "Settings." Then click on
+    "Collaborators." A small box will appear labeled "Collaborators."
+5.  In the "Collaborators" box, click in the text-entry for "Search by
+    username, ...." Search for "dtkaplan" and, assuming you've typed it
+    correctly, you will see a thumbnail picture of Daniel Kaplan.
+6.  Now press "Add collaborator." Once you've done this, you'll see a
+    message, "Awaiting dtkaplan's response."
+
+Connecting your repository to RStudio
+-------------------------------------
+
+1.  On GitHub, go to \*\*your own\* repository. The address of that
+    repository starts with your own GitHub account name.
+
+2.  Click the green "Clone or download" button, then press the small
+    clipboard icon. You should see a word balloon "Copied!". This will
+    copy the address of your GitHub repository.
+3.  Now go to your RStudio system. This might be the Macalester server
+    [rstudio.macalester.edu](http://rstudio.macalester.edu) or it might
+    be an RStudio system that you have installed on your own computer.
+4.  In RStudio, select the FILE/New Project menu item. In the resulting
+    dialog box:
+    -   select "Version Control" then
+    -   select "Git"
+
+5.  In the dialog box that is shown, paste the address that you copied
+    in step (2). If you are on your own computer, you may want to press
+    the "Browse ..." button to place the respository in a directory that
+    you think is appropriate. If you do not know what this might mean,
+    accept the default.
+6.  Press the "Create Project" button. You will see some messages about
+    cloning the project and then RStudio will restart. When this is
+    finished, the upper right corner of the RStudio window will display
+    the project name: Comp-110-Assignments-Spring-2017.
+
+Check out the Files tab in RStudio. This lists the files that already
+exist in the project. There are two series of files:
+
+1.  `Week_#_short_answers.Rmd` where \# is a one-digit number.
+2.  `Week_#_project.Rmd`
+
+These are where you will put your work, per the [course
+schedule](dtkaplan.github.io/comp110).
+
+Customizing the repository for your individual use.
+---------------------------------------------------
+
+Now you are ready to start editing the files in your branch.
+
+Whenever you start up RStudio, make sure that you are in the
+`Comp-110-Assignments-Spring-2017` project (look in the upper right
+corner of the RStudio window) and that the "Git" tab is displaying the
+"master" branch. Almost always, this will happen automatically, but
+sometimes things go wrong due to a system crash.

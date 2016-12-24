@@ -1,4 +1,8 @@
-# Comp-110-Assignments
+---
+title: Setting up a repository for COMP 110 assignments
+date: December 23, 2017
+output: md_document
+---
 
 Storage for the assignments done in COMP 110
 
