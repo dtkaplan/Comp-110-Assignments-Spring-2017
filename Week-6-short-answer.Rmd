@@ -1,0 +1,13 @@
+# Week 6 Short Answer Questions
+
+## Your name should appear here!
+
+<!-- leave this material as is -->
+Compiled on `r date()`.
+
+```{r include = FALSE}
+library(DataComputing)
+```
+<!-- put your content after this line -->
+
+Here is my content!
