@@ -1,4 +1,5 @@
 Storage for the assignments done in COMP 110
+============================================
 
 Each student will have their own course repository. Those repositories
 will be "forked" from this one. That means your repository will start

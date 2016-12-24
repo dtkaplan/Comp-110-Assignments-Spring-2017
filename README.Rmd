@@ -1,10 +1,8 @@
 ---
-title: Setting up a repository for COMP 110 assignments
-date: December 23, 2017
 output: md_document
 ---
 
-Storage for the assignments done in COMP 110
+# Storage for the assignments done in COMP 110
 
 Each student will have their own course repository.  Those repositories will be "forked" from this one. That means your repository will start out identical to this one. It will change over the semester as you carry out your work.
 
