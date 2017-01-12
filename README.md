@@ -18,27 +18,13 @@ Forking the repository
 These steps describe how to create your own copy of the COMP 110
 assignments repository and share it with the instructor.
 
-1.  If you have not already done so, go to <http://github.com> and set
-    up an account for yourself. You will be asked to create a user ID
-    and to give an email address. Make sure the email address is one you
-    regularly use. 
+1. If you have not already done so, go to <http://github.com> and set up an account for yourself. You will be asked to create a user ID and to give an email address. Make sure the email address is one you regularly use. 
 #. In another tab of your browser, log in to your Github account. Then return to this tab.
-#.  Check whether the site you are reading this document is
-    <https://github.com/dtkaplan/Comp-110-Assignments-Spring-2017>. If
-    not direct your browser there.
-#.  In the upper right corner of the page, there is a button labeled
-    "Fork." Press it. You may have to login In response, you will see a
-    message telling you a fork is in progress. After a minute, the page
-    display will change and you will be looking at your own copy of the
-    COMP 110 assignments repository.
-#.  There is a row of tabs near the top of the window: Code, Pull
-    requestions, Projects, .... Click on "Settings." Then click on
-    "Collaborators." A small box will appear labeled "Collaborators."
-#.  In the "Collaborators" box, click in the text-entry for "Search by
-    username, ...." Search for "dtkaplan" and, assuming you've typed it
-    correctly, you will see a thumbnail picture of Daniel Kaplan.
-#.  Now press "Add collaborator." Once you've done this, you'll see a
-    message, "Awaiting dtkaplan's response."
+#. Check whether the site you are reading this document is <https://github.com/dtkaplan/Comp-110-Assignments-Spring-2017>. If not, direct your browser there.
+#. In the upper right corner of the page, there is a button labeled "Fork." Press it. You may have to login In response, you will see a message telling you a fork is in progress. After a minute, the page display will change and you will be looking at your own copy of the COMP 110 assignments repository.
+#. There is a row of tabs near the top of the window: Code, Pull requestions, Projects, .... Click on "Settings." Then click on "Collaborators." A small box will appear labeled "Collaborators."
+#. In the "Collaborators" box, click in the text-entry for "Search by username, ...." Search for "dtkaplan" and, assuming you've typed it correctly, you will see a thumbnail picture of Daniel Kaplan.
+#. Now press "Add collaborator." Once you've done this, you'll see a message, "Awaiting dtkaplan's response."
 
 Connecting your repository to RStudio
 -------------------------------------
